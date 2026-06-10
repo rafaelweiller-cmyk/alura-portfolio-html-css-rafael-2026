@@ -1,1 +1,31 @@
-
+body{
+  background: #84D9D2;
+    strong{
+      color: #1C5A55;
+  }
+  h1{
+    color: #267D76;
+    text-align: center;
+    span{
+      border: 1px solid  
+      padding: 10px;
+    }
+  }
+  p{
+      text-align: center;
+    }
+    img {
+      display: block;
+      widht: 100%;
+      heith: auto;
+      max-width 600px;
+      magin-left: auto;
+      margin-right: auto;  
+}
+    footer{
+      text-align: center;
+      strong{
+        color:blue;
+      }
+  }
+}
